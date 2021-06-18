@@ -1,0 +1,16 @@
+RED
+GREEN
+BLUE
+YELLOW
+ORANGE
+PURPLE
+BLUE-GREEN
+YELLOW-GREEN
+not too orange or purple
+not too blue or yellow
+not too purple or green
+not too orange or green
+not too red or yellow
+not too blue or red
+not too blue or green
+not too yellow or green
